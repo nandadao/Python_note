@@ -1,0 +1,51 @@
+cookie :
+
+Linux下文件 ：  b(块设备驱动文件)
+              c(字符设备文件)
+               d(目录/文件夹)
+               -(普通文件)
+               l(链接文件)
+               s(套接字文件)
+               p(管道文件)
+
+1. 在python文件开始添加  #！/usr/bin/env python3  声明解释器位置
+2. 使用 chmod 777 hello.py 修改可执行权限
+3. 将文件移动到/bin下  sudo cp hello.py  /bin
+
+    查看环境变量： echo $PATH
+
+cookie
+
+   1T = 1024 G
+   1G = 1024 M
+   1M = 1024 K
+   1K = 1024 bytes
+   1bytes = 8 bit
+
+
+作业： 1. markdown 自己查阅
+      2. 常用shell命令熟练
+      3. 进制转换
+         split()  join()   format()   strip()
+
+      4. import time
+         ctime()
+         sleep()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

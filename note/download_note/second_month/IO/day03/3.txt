@@ -1,0 +1,73 @@
+前情回顾
+
+1. Linux压缩解压
+
+   zip  unzip
+   tar  gz       tar  -czf
+        bz2      tar  -cjf
+        解压      tar  -xvf
+
+2. 软件安装
+   apt-get install
+           update
+           remove
+
+   dpkg -i
+
+3. 用户管理
+   adduser
+   deluser
+   sudo vipw
+
+4. ssh 服务
+   远程登录 ： ssh  username@ip
+   远程拷贝 ： scp
+   配置秘钥 ： ssh-keygen
+
+5. 文件IO
+
+   文件操作过程： open()
+                read/write
+                close()
+
+   打开方式： r w  a  +  b
+
+   读： read()  readline()  readlines()
+   写： write()  writelines()
+
+   with
+
+练习:
+编写一个程序，向一个文件中不断写入如下内容：
+
+  1. 2019-1-1  18:18:18
+  2. 2019-1-1  18:18:20
+  3. 2019-1-1  18:18:22
+  4. 2019-1-1  18:18:24
+  5. 2019-1-1  18:19:56
+
+  * 每次写入占一行
+  * 这是一个死循环，2s写入一次，但是可以实时查看写入内容
+  * 当程序退出，重新启动后，书写内容能够衔接之前
+  序号内容
+
+
+局域网（网段）
+
+作业： 1. 文件读写总结
+      2. 面试问题回答
+      3. socket函数熟悉
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,197 @@
+linux 快捷键
+1、ls  列出本地址上文件，
+    -a    列出所有（包括隐藏文件）
+    -l     按照列表方式显示
+    -t     按照时间方式排序
+
+2、touch 创建文件 
+3、echo   'abc' >  文件名    写入文件内容（覆盖之前的内容）
+        echo   'cdc'   >> 文件名      在文件后面添加信息
+
+4、mkdir    -p     test/test1/test2    创建目录
+5、cat    文件名    ： 可以查看文件内容
+6、head   - (n)  2    文件名   : 可以查看文件的前两行
+        tail    -(n) 3  文件名   ： 可以查看文件后几行   (其中n是可以省略的，负号不可以省略)
+7、tree   :  可以查看文件数结构
+8、cd     :回根目录
+            cd  ~   :   回根目录
+            cd  -  ： 返回刚才的目录
+            cd  ..   :返回上一级目录
+            cd  .  : 当前目录
+
+9、find  .   -name  '*.txt'       : 查看当前目录下的所有以 .txt结尾的文件  （name是固定的不用改变）
+
+10、sudo  find   /     -name  '*.txt'     ：使用高权限在根目录下寻找 ，所有以     .txt 为结尾的文件
+
+11、pwd    ：查看当前所在目录
+
+12、cp  ：复制命令
+                cp    test1.txt      new.txt
+                        原来文件        新文件
+                cp    test1.txt     /home/tarena/1910xly/xinwenjainming.txt
+                                                         路径加上                    新文件名
+13、mv    原文件     新文件    :    剪切
+                mv    new.txt    new2.txt
+
+14、rm -f  :强制删除
+                -r   :把子目录删除
+                -i：询问是否删除文件
+
+15、tar -zcvf   压缩包名称   test.txt  test2.txt   :压缩
+         tar   -zxvf  压缩包                                                :解压到当前目录
+         tar   -zxvf   压缩包   -C    路径                          : 解压到指定路径
+
+16、chmod  +x    文件名  ： 添加文件的可执行权限
+                x  :executable 可执行的
+         chmod   777  文件名  
+
+17、 网络操作
+            ifconfig    : 查看本机IP地址
+
+             inet 192.168.237.130  这个是本机的ip地址
+
+             ping  + IP / 域名
+
+18、uname   -a  :查看liunx的版本信息
+
+19、添加用户    
+            sudo  adduser  +  用户名    ：可以添加用户
+                        在  /etc/passwd    文件中最后一行可以看到添加的用户信息
+
+
+        更改密码
+            sudo   passwd     +  用户名   ：直接修改密码
+        删除用户
+            sudo    deluser   +  用户名     ：删除用户
+
+        修改密码完成后,可以使用如下命令切换到tom用户进行验证：
+                su - tom      ：切换到指定用户
+
+20、查看磁盘使用率
+                df   
+                df   -h   :更加人性化显示，可以显示兆
+                lsblk    ：也可以查看磁盘使用率
+                sudo  fdisk  -l     :      也可以查看
+
+21、开关机/重启
+                shutdown        /    init   0   ：关机
+                reboot                                      ：重启
+
+22、快捷键
+                history  :查看最近输入的命令
+                ctrl +  shift   +  t  :新打开一个终端
+                exit       ：退出终端
+
+
+23、vim 编辑器
+            wc    -l    文件  ：可以查看文件有多少行
+
+
+周末作业：
+vim xly1.txt      :创建文件
+vim xly2.txt
+
+tarena@tedu:~/a/aa/aaa$ tar -zcvf xly.tar.gz xly1.txt xly2.txt      ：压缩文件
+  
+tarena@tedu:~$ tar -zxvf ~/a/aa/aaa/xly.tar.gz -C xly/                    : 解压缩
+
+
+24、exit()   退出终端
+        ctrl + d    也可以退出的终端
+
+25、字符串的占位符
+        print('%s的年龄%d'   %  (name, age))
+
+        %s:   字符串的格式化
+        %d:  整数的格式化
+        %f :  浮点数字
+                    %.2f  :表示小数点后保留两位小数 
+
+26、bool类型数据   （属于数字类型 True  1, False  0）
+            bool(None)    :的值是  False 
+            bool(0.5)         :的值是  True
+
+27、地板除
+            5 // 2   :2
+            -5 // 2 :  -3  (向下取者整数)
+
+28、print(True > False)   --->   返回是True
+            因为，True, False本身是数字  1 和 0
+
+29、if 语句
+
+30、数字类型
+                整数  int()
+                浮点数  float()
+                复数  complex()
+                布尔值 bool()
+
+31、字符串的算数运算符
+    a += b    ---> 等同于 a = a + b  (称为增强运算符)
+
+32、常用方法
+    len(str)
+    str.upper()
+    str.lower()
+    max(str)
+    min(str)
+    str.strip()  :去除字符串两侧的空格
+
+33、list列表
+    1、创建列表
+        list1 = []   :字面值创建
+        list2 = list[] :构造方法
+        list3 = [1, 'zifuchuan ', [2, 3]]
+    2、通过索引取值
+        反向索引
+            list04[-1]  :取出list04中的最后一个值
+                            从 -1  到  -n
+    3、常用方法
+        list.appendt
+        list03.count(2)
+        list03.append(2)
+        list.count(2)   :查看2出现的次数
+        test03.index(2)  :查看2的索引
+        list[1]  :索引出值
+
+    4、import random
+       random.choice(list01)
+
+
+34、while 循环
+        1.while 条件：
+            执行语句
+          else:
+             执行语句
+
+35、str >> list
+            list()
+            str.split(' ') : # 以空格为分隔符，把字符串分成列表
+                    str2 = 'www baidu com'
+                    list02 = str2.split(' ')
+    list >> str
+            l = '.'.join(list)    # 以 点 为分隔符，变成一个字符串
+                    l1 = ['www', 'google', 'com']
+                    str1 = '.'.join(l1)
+
+
+36、break     :遇到则推出while 循环
+    continue  :不再执行本次循环，重新开始下一次的循环
+
+37、for 循环
+        1、可迭代对象
+            字符串
+            列表
+            元组tuple
+            字典dict
+            集合set
+            固定集合forzenset
+            迭代器
+38、range()函数
+        range(0, -10, -1)：反向序列，第一个数start要比第二个数end大
+        range(1, 10, -1) :这种写法是   错误   的
+
+39、  %d + %d = %2d
+            %2d:  整数占两位，默认右对齐，左边空的话用空格补齐。
+
+31、思维导图xmind

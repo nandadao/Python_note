@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="101f148e-9045-4179-a571-0861ba85e499" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="databases" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="databases" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="databases" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="stu: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="databases" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="stu: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="note" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my_note/python" />
+  </component>
+  <component name="ProjectId" id="1Tu4LANgufj2Ta9hfbZhWzyrgGF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../桌面/12345" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/my_note/second_month/day12" />
+      <recent name="$PROJECT_DIR$/my_note/second_month/day06" />
+      <recent name="$PROJECT_DIR$/my_note/second_month/day05/teacher_answer" />
+      <recent name="$PROJECT_DIR$/download_note/first_month/day18/common" />
+      <recent name="$PROJECT_DIR$/download_note/first_month/day18" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/my_note/second_month/day11" />
+      <recent name="$PROJECT_DIR$/my_note/second_month/day10" />
+      <recent name="$PROJECT_DIR$/my_note/second_month/exercise_day02" />
+      <recent name="$PROJECT_DIR$/my_note/second_month/day09" />
+      <recent name="$PROJECT_DIR$/my_note/second_month/day05" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.俄罗斯方块">
+    <configuration name="俄罗斯方块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_note/second_month/day17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_note/second_month/day17/俄罗斯方块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_note/second_month/day16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_note/second_month/day16/dict_word.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_db" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_note/second_month/day16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_note/second_month/day16/read_db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="save_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_note/second_month/day16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_note/second_month/day16/save_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="write_db" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_note/second_month/day16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_note/second_month/day16/write_db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.俄罗斯方块" />
+        <item itemvalue="Python.save_image" />
+        <item itemvalue="Python.exercise" />
+        <item itemvalue="Python.write_db" />
+        <item itemvalue="Python.read_db" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="101f148e-9045-4179-a571-0861ba85e499" name="Default Changelist" comment="" />
+      <created>1574296587460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574296587460</updated>
+      <workItem from="1574296589081" duration="24913000" />
+      <workItem from="1574381964937" duration="19009000" />
+      <workItem from="1574405947348" duration="10406000" />
+      <workItem from="1574467945942" duration="2844000" />
+      <workItem from="1574645662332" duration="10740000" />
+      <workItem from="1574663302369" duration="8021000" />
+      <workItem from="1574727878817" duration="8788000" />
+      <workItem from="1574813899243" duration="3584000" />
+      <workItem from="1574823866188" duration="1550000" />
+      <workItem from="1574840826939" duration="7817000" />
+      <workItem from="1574901031652" duration="14990000" />
+      <workItem from="1574987457743" duration="22725000" />
+      <workItem from="1575073425786" duration="13837000" />
+      <workItem from="1575093849367" duration="12594000" />
+      <workItem from="1575248250675" duration="16902000" />
+      <workItem from="1575288945636" duration="141000" />
+      <workItem from="1575333110798" duration="22264000" />
+      <workItem from="1575418979957" duration="23728000" />
+      <workItem from="1575506024689" duration="21570000" />
+      <workItem from="1575592750534" duration="27069000" />
+      <workItem from="1575677439054" duration="26741000" />
+      <workItem from="1575783510939" duration="8431000" />
+      <workItem from="1575796141382" duration="21000" />
+      <workItem from="1575851709996" duration="21817000" />
+      <workItem from="1575938299408" duration="10184000" />
+      <workItem from="1575977808642" duration="248000" />
+      <workItem from="1575980850332" duration="599000" />
+      <workItem from="1575982703641" duration="317000" />
+      <workItem from="1575983069207" duration="56000" />
+      <workItem from="1576024611569" duration="8324000" />
+      <workItem from="1576110658310" duration="3313000" />
+      <workItem from="1576127209731" duration="7526000" />
+      <workItem from="1576200171912" duration="6207000" />
+      <workItem from="1576282300547" duration="3652000" />
+      <workItem from="1576456356677" duration="2863000" />
+      <workItem from="1576542704368" duration="15287000" />
+      <workItem from="1576581006482" duration="1198000" />
+      <workItem from="1576636865082" duration="3403000" />
+      <workItem from="1576670030333" duration="393000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/my_note/first_month/day17/exercise01.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/my_note/first_month/day17/exercise02.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/note$find_address.coverage" NAME="find_address Coverage Results" MODIFIED="1575971990925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day11" />
+    <SUITE FILE_PATH="coverage/note$process3.coverage" NAME="process3 Coverage Results" MODIFIED="1575423397244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day07" />
+    <SUITE FILE_PATH="coverage/note$iterable_tools1.coverage" NAME="iterable_tools1 Coverage Results" MODIFIED="1574399094136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/first_month/day18/common" />
+    <SUITE FILE_PATH="coverage/note$process_exc.coverage" NAME="process_exc Coverage Results" MODIFIED="1575429388247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/download_note/second_month/day07" />
+    <SUITE FILE_PATH="coverage/note$regex2.coverage" NAME="regex2 Coverage Results" MODIFIED="1575967610598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day11" />
+    <SUITE FILE_PATH="coverage/note$file_server.coverage" NAME="file_server Coverage Results" MODIFIED="1575016010274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day04" />
+    <SUITE FILE_PATH="coverage/note$ftp_client.coverage" NAME="ftp_client Coverage Results" MODIFIED="1575622260577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day09" />
+    <SUITE FILE_PATH="coverage/note$homework_day02.coverage" NAME="homework_day02 Coverage Results" MODIFIED="1574905207396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day02" />
+    <SUITE FILE_PATH="coverage/note$file_client.coverage" NAME="file_client Coverage Results" MODIFIED="1575016013613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day04" />
+    <SUITE FILE_PATH="coverage/note$ftp_server.coverage" NAME="ftp_server Coverage Results" MODIFIED="1575623354727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day09" />
+    <SUITE FILE_PATH="coverage/note$demo03.coverage" NAME="demo03 Coverage Results" MODIFIED="1574912576783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day03" />
+    <SUITE FILE_PATH="coverage/note$tcp_server__1_.coverage" NAME="tcp_server (1) Coverage Results" MODIFIED="1574995670149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day04" />
+    <SUITE FILE_PATH="coverage/note$process2.coverage" NAME="process2 Coverage Results" MODIFIED="1575367413548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day06" />
+    <SUITE FILE_PATH="coverage/note$exercise03.coverage" NAME="exercise03 Coverage Results" MODIFIED="1575097092720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day05/teacher_answer" />
+    <SUITE FILE_PATH="coverage/note$seek.coverage" NAME="seek Coverage Results" MODIFIED="1574908460369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day03" />
+    <SUITE FILE_PATH="coverage/note$select_text.coverage" NAME="select_text Coverage Results" MODIFIED="1575859838545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day10" />
+    <SUITE FILE_PATH="coverage/note$tell_kuohao_client.coverage" NAME="tell_kuohao_client Coverage Results" MODIFIED="1575104401468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day05" />
+    <SUITE FILE_PATH="coverage/note$exercise04.coverage" NAME="exercise04 Coverage Results" MODIFIED="1574317436510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/first_month/day17" />
+    <SUITE FILE_PATH="coverage/note$company.coverage" NAME="company Coverage Results" MODIFIED="1575852769131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/exercise_day02" />
+    <SUITE FILE_PATH="coverage/note$tell_kuohao_server.coverage" NAME="tell_kuohao_server Coverage Results" MODIFIED="1575104399641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day05" />
+    <SUITE FILE_PATH="coverage/note$fork01.coverage" NAME="fork01 Coverage Results" MODIFIED="1575276732983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day05" />
+    <SUITE FILE_PATH="coverage/note$regex1.coverage" NAME="regex1 Coverage Results" MODIFIED="1575966692054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day11" />
+    <SUITE FILE_PATH="coverage/note$demo02.coverage" NAME="demo02 Coverage Results" MODIFIED="1575081217349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day04" />
+    <SUITE FILE_PATH="coverage/note$get_pid.coverage" NAME="get_pid Coverage Results" MODIFIED="1575280034397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day05" />
+    <SUITE FILE_PATH="coverage/note$thread_server.coverage" NAME="thread_server Coverage Results" MODIFIED="1575598746861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day09" />
+    <SUITE FILE_PATH="coverage/note$multi_thread.coverage" NAME="multi_thread Coverage Results" MODIFIED="1575535793018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day08" />
+    <SUITE FILE_PATH="coverage/note$regex.coverage" NAME="regex Coverage Results" MODIFIED="1575964437447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day11" />
+    <SUITE FILE_PATH="coverage/note$find_key_server.coverage" NAME="find_key_server Coverage Results" MODIFIED="1575015023125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day04" />
+    <SUITE FILE_PATH="coverage/note$thread_event.coverage" NAME="thread_event Coverage Results" MODIFIED="1575683448704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day08" />
+    <SUITE FILE_PATH="coverage/note$homework_day08_1.coverage" NAME="homework_day08_1 Coverage Results" MODIFIED="1575596726449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day08" />
+    <SUITE FILE_PATH="coverage/note$exercise05.coverage" NAME="exercise05 Coverage Results" MODIFIED="1574319364013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/first_month/day17" />
+    <SUITE FILE_PATH="coverage/note$hold.coverage" NAME="hold Coverage Results" MODIFIED="1574908932384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day03" />
+    <SUITE FILE_PATH="coverage/note$select_tcp.coverage" NAME="select_tcp Coverage Results" MODIFIED="1575875191410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day10" />
+    <SUITE FILE_PATH="coverage/note$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1575877800747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/download_note/second_month/day04" />
+    <SUITE FILE_PATH="coverage/note$exercise01_server.coverage" NAME="exercise01_server Coverage Results" MODIFIED="1575095261198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day05" />
+    <SUITE FILE_PATH="coverage/note$chat_server__1_.coverage" NAME="chat_server (1) Coverage Results" MODIFIED="1575356854268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/download_note/second_month/day06/day06" />
+    <SUITE FILE_PATH="coverage/note$exercise02.coverage" NAME="exercise02 Coverage Results" MODIFIED="1575451668883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day07" />
+    <SUITE FILE_PATH="coverage/note$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1575017769161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day04" />
+    <SUITE FILE_PATH="coverage/note$httpserver.coverage" NAME="httpserver Coverage Results" MODIFIED="1575261990793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day05" />
+    <SUITE FILE_PATH="coverage/note$multi_process.coverage" NAME="multi_process Coverage Results" MODIFIED="1575535745738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day08" />
+    <SUITE FILE_PATH="coverage/note$process1.coverage" NAME="process1 Coverage Results" MODIFIED="1575366613507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day06" />
+    <SUITE FILE_PATH="coverage/note$save_image.coverage" NAME="save_image Coverage Results" MODIFIED="1576574243221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day16" />
+    <SUITE FILE_PATH="coverage/note$exercise01_client.coverage" NAME="exercise01_client Coverage Results" MODIFIED="1575095264012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day05" />
+    <SUITE FILE_PATH="coverage/note$process_altr.coverage" NAME="process_altr Coverage Results" MODIFIED="1575424539815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day07" />
+    <SUITE FILE_PATH="coverage/note$find_key_client.coverage" NAME="find_key_client Coverage Results" MODIFIED="1575015025979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day04" />
+    <SUITE FILE_PATH="coverage/note$exercise.coverage" NAME="exercise Coverage Results" MODIFIED="1576572375844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day16" />
+    <SUITE FILE_PATH="coverage/note$single.coverage" NAME="single Coverage Results" MODIFIED="1575535059843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day08" />
+    <SUITE FILE_PATH="coverage/note$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1574987870795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day03" />
+    <SUITE FILE_PATH="coverage/note$prime.coverage" NAME="prime Coverage Results" MODIFIED="1575593403569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day07" />
+    <SUITE FILE_PATH="coverage/note$exit.coverage" NAME="exit Coverage Results" MODIFIED="1575279629332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day05" />
+    <SUITE FILE_PATH="coverage/note$demo04.coverage" NAME="demo04 Coverage Results" MODIFIED="1574848244759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day02" />
+    <SUITE FILE_PATH="coverage/note$exercise07.coverage" NAME="exercise07 Coverage Results" MODIFIED="1574328603809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/first_month/day17" />
+    <SUITE FILE_PATH="coverage/note$epoll_server.coverage" NAME="epoll_server Coverage Results" MODIFIED="1575878253694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day10" />
+    <SUITE FILE_PATH="coverage/note$thread.coverage" NAME="thread Coverage Results" MODIFIED="1575453731016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day07" />
+    <SUITE FILE_PATH="coverage/note$bll.coverage" NAME="bll Coverage Results" MODIFIED="1574666628717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/first_month/game2048" />
+    <SUITE FILE_PATH="coverage/note$insert_data.coverage" NAME="insert_data Coverage Results" MODIFIED="1576142081045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/MySQL" />
+    <SUITE FILE_PATH="coverage/note$exercise01__1_.coverage" NAME="exercise01 (1) Coverage Results" MODIFIED="1574401956207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/download_note/first_month/day18" />
+    <SUITE FILE_PATH="coverage/note$thread_lock.coverage" NAME="thread_lock Coverage Results" MODIFIED="1575689168582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day08" />
+    <SUITE FILE_PATH="coverage/note$thread2.coverage" NAME="thread2 Coverage Results" MODIFIED="1575509561653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day08" />
+    <SUITE FILE_PATH="coverage/note$file_fenli.coverage" NAME="file_fenli Coverage Results" MODIFIED="1575085095735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day05" />
+    <SUITE FILE_PATH="coverage/note$photo_tell_client.coverage" NAME="photo_tell_client Coverage Results" MODIFIED="1575106050093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day05" />
+    <SUITE FILE_PATH="coverage/note$homework_day05.coverage" NAME="homework_day05 Coverage Results" MODIFIED="1575427374173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day05" />
+    <SUITE FILE_PATH="coverage/note$queue_test.coverage" NAME="queue_test Coverage Results" MODIFIED="1575444620525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day07" />
+    <SUITE FILE_PATH="coverage/note$demo06.coverage" NAME="demo06 Coverage Results" MODIFIED="1574327465087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/first_month/day17" />
+    <SUITE FILE_PATH="coverage/note$mythread.coverage" NAME="mythread Coverage Results" MODIFIED="1575512490343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day08" />
+    <SUITE FILE_PATH="coverage/note$write_db.coverage" NAME="write_db Coverage Results" MODIFIED="1576569461755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day16" />
+    <SUITE FILE_PATH="coverage/note$fork1.coverage" NAME="fork1 Coverage Results" MODIFIED="1575333999328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/download_note/second_month/day05" />
+    <SUITE FILE_PATH="coverage/note$my_process.coverage" NAME="my_process Coverage Results" MODIFIED="1575427733657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day07" />
+    <SUITE FILE_PATH="coverage/note$read_db.coverage" NAME="read_db Coverage Results" MODIFIED="1576567297006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day16" />
+    <SUITE FILE_PATH="coverage/note$do.coverage" NAME="do Coverage Results" MODIFIED="1575507382360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day08" />
+    <SUITE FILE_PATH="coverage/note$pool.coverage" NAME="pool Coverage Results" MODIFIED="1575442602866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day07" />
+    <SUITE FILE_PATH="coverage/note$http_server.coverage" NAME="http_server Coverage Results" MODIFIED="1575885717879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day10" />
+    <SUITE FILE_PATH="coverage/note$student_info_server.coverage" NAME="student_info_server Coverage Results" MODIFIED="1575079166028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day04" />
+    <SUITE FILE_PATH="coverage/note$thread_attr.coverage" NAME="thread_attr Coverage Results" MODIFIED="1575510453848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day08" />
+    <SUITE FILE_PATH="coverage/note$del_.coverage" NAME="del_ Coverage Results" MODIFIED="1575796101561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/note$ticket.coverage" NAME="ticket Coverage Results" MODIFIED="1575852651688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/exercise_day02" />
+    <SUITE FILE_PATH="coverage/note$demo02__1_.coverage" NAME="demo02 (1) Coverage Results" MODIFIED="1574844151466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day02" />
+    <SUITE FILE_PATH="coverage/note$thread_exc.coverage" NAME="thread_exc Coverage Results" MODIFIED="1575532313622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day08" />
+    <SUITE FILE_PATH="coverage/note$homework_day08_2.coverage" NAME="homework_day08_2 Coverage Results" MODIFIED="1575598555016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day08" />
+    <SUITE FILE_PATH="coverage/note$student_info_client.coverage" NAME="student_info_client Coverage Results" MODIFIED="1575079169656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day04" />
+    <SUITE FILE_PATH="coverage/note$demo01__1_.coverage" NAME="demo01 (1) Coverage Results" MODIFIED="1574841299850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day02" />
+    <SUITE FILE_PATH="coverage/note$.coverage" NAME="俄罗斯方块 Coverage Results" MODIFIED="1576652955629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day17" />
+    <SUITE FILE_PATH="coverage/note$fork.coverage" NAME="fork Coverage Results" MODIFIED="1575275669029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day05" />
+    <SUITE FILE_PATH="coverage/note$pthoto_tell_server.coverage" NAME="pthoto_tell_server Coverage Results" MODIFIED="1575106046971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day05" />
+    <SUITE FILE_PATH="coverage/note$tcp_client__1_.coverage" NAME="tcp_client (1) Coverage Results" MODIFIED="1575885061227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day10" />
+    <SUITE FILE_PATH="coverage/note$dead_lock.coverage" NAME="dead_lock Coverage Results" MODIFIED="1575527523131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day08" />
+    <SUITE FILE_PATH="coverage/note$child__1_.coverage" NAME="child (1) Coverage Results" MODIFIED="1575339128631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/download_note/second_month/day06/day06" />
+    <SUITE FILE_PATH="coverage/note$FLAGS.coverage" NAME="FLAGS Coverage Results" MODIFIED="1575968681175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day11" />
+    <SUITE FILE_PATH="coverage/note$chat_server.coverage" NAME="chat_server Coverage Results" MODIFIED="1575707796262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/exercise_day02" />
+    <SUITE FILE_PATH="coverage/note$zombie.coverage" NAME="zombie Coverage Results" MODIFIED="1575339941172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/download_note/second_month/day06/day06" />
+    <SUITE FILE_PATH="coverage/note$chat_client.coverage" NAME="chat_client Coverage Results" MODIFIED="1575707488606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/exercise_day02" />
+    <SUITE FILE_PATH="coverage/note$zonble.coverage" NAME="zonble Coverage Results" MODIFIED="1575339847565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day06" />
+    <SUITE FILE_PATH="coverage/note$thread_server_teacher.coverage" NAME="thread_server_teacher Coverage Results" MODIFIED="1575599441963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day09" />
+    <SUITE FILE_PATH="coverage/note$print_num_and_letter.coverage" NAME="print_num_and_letter Coverage Results" MODIFIED="1575693142987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/exercise_day02" />
+    <SUITE FILE_PATH="coverage/note$chat_client__1_.coverage" NAME="chat_client (1) Coverage Results" MODIFIED="1575356857796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/download_note/second_month/day06/day06" />
+    <SUITE FILE_PATH="coverage/note$demo05.coverage" NAME="demo05 Coverage Results" MODIFIED="1574415662263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/first_month/day18" />
+    <SUITE FILE_PATH="coverage/note$exercise06.coverage" NAME="exercise06 Coverage Results" MODIFIED="1574325635350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/download_note/first_month/day17" />
+    <SUITE FILE_PATH="coverage/note$poll_server.coverage" NAME="poll_server Coverage Results" MODIFIED="1575877886235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day10" />
+    <SUITE FILE_PATH="coverage/note$exercise01.coverage" NAME="exercise01 Coverage Results" MODIFIED="1576317183719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day07" />
+    <SUITE FILE_PATH="coverage/note$exercist01.coverage" NAME="exercist01 Coverage Results" MODIFIED="1574911750308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day03" />
+    <SUITE FILE_PATH="coverage/note$child.coverage" NAME="child Coverage Results" MODIFIED="1575339117537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day06" />
+    <SUITE FILE_PATH="coverage/note$copy_file.coverage" NAME="copy_file Coverage Results" MODIFIED="1575446561275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day07" />
+    <SUITE FILE_PATH="coverage/note$block.coverage" NAME="block Coverage Results" MODIFIED="1575626461518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_note/second_month/day09" />
+  </component>
+</project>

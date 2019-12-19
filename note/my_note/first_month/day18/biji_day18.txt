@@ -1,0 +1,114 @@
+day17复习
+1.生成器 ：惰性操作/延时操作   ××××××××
+    1.生成器函数
+        返回多个结果用yield
+            def 函数名():
+                ...
+                yield 数据
+            调用
+            for item in 函数名()
+        单个用return
+    2.生成器表达式
+        for item in （对变量名的操作 for 变量名 in 可迭代对象）
+
+    惰性操作：
+        缺点：
+            不能灵活(索引/切片/只能使用一次)访问
+        解决：转换为立即操作
+            lint(生成器)
+            容器(生成器)
+
+
+2.函数式编程
+    函数作为参数
+    1.思想：根面向对象异曲同工
+        “封装”
+        “继承”
+        “多态”
+        def 功能1():
+            共性代码
+            个性代码1
+        def 功能2():
+            共性代码
+            个性代码2
+
+        def 变化点1():
+            个性代码1
+
+======================================
+day18
+1.集成操作框架
+    各种语言之间是通用的，以后学习其他语言时，也可以做类似的工具包，
+    只是语法不同而已。
+
+2.lambda
+    随时创建和销毁，减少程序耦合度
+    1.lambda匿名函数：
+        价值：作为实参传递给函数
+        lambda 参数:函数体
+    2.lambda表达式不支持赋值
+        lambda a:a[0] = 10 # 这是错的
+    3.lambda只支持一行语句
+
+    4.注意：
+        形参没有可以不填
+        方法体只能有一条语句，且不支持赋值语句。
+
+
+3.函数式编程：先用再做
+
+4.步骤：
+    1.将需求完整实现到函数中
+    2.将变化点单独定义到函数中
+    3.将通用代码定义到函数中
+    4.用餐数隔离变化点
+    5.将通过代码移动到IterableHelper类中
+    6.测试调用IterableHelper的静态方法执行功能。
+  注意：
+    实际开发的时候直接进行5和6
+
+5.内置高阶函数
+    1.filter 过滤器
+    2.map 映射
+    3.max 找最大
+    4.sorted 排序(默认升序)
+
+6.Enclosing 外部嵌套作用域
+            def fun01():
+                a= 10 # 局部变量，外部嵌套变量
+                def fun02():
+                    b=20 # 局部变量
+                    # print(a)  # 可以读取外部嵌套变量
+                    nonlocal a # 声明外部嵌套变量
+                    a = 20
+                fun02()
+                print(a)
+
+            fun01()
+
+7.闭包
+
+8.装饰器
+                def print_func_name(func):
+                def wrapper(*args, **kwargs):  # 合
+                    print(func.__name__)
+                    return func(*args, **kwargs)   # 拆
+                return wrapper
+
+                @print_func_name
+                def say_hello():
+                    print("hello")
+
+
+                @print_func_name
+                def say_goodbye():
+                    print("goodbye")
+
+                say_hello()
+                say_goodbye()
+
+
+
+
+
+

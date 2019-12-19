@@ -1,0 +1,113 @@
+前情回顾
+1. 网络并发模型
+　　fork_server
+   process_server
+   thread_server
+
+2. 文件服务（结构，分发思想，请求确认机制）
+
+3. IO模型
+　　阻塞ＩＯ　　非阻塞ＩＯ　　ＩＯ多路复用
+　　
+   阻塞io： 默认形态，效率低，实现简单
+
+   非阻塞IO： 将原本的阻塞函数变为非阻塞
+
+       setblocking()  settimeout()
+
+cookie
+
+  1 -> 1
+  2 -> 10
+  4 -> 100
+  8 -> 1000
+  16 -> 10000
+
+  class Person:
+    高大 = False
+    威猛 = False
+    温柔 = False
+    善良 = False
+    有钱 = False
+    聪明 = False
+
+  qtx = Person()
+  qtx.有钱 = True
+  qtx.聪明 = True
+
+  class Person:
+    特征 = 0
+    高大 = 1
+    威猛 = 2
+    温柔 = 4
+    善良 = 8
+    有钱 = 16
+    聪明 = 32
+
+  qtx = Person()
+  qtx.特征 = 48
+
+  if qtx.特征 & 温柔
+
+  qtx.特征 = qtx.特征 | 威猛
+
+
+io 多路复用比较
+
+select：
+   跨平台最好
+   效率一般
+   最多监控1024个IO
+
+poll
+   跨平台一般
+   效率一般
+   监控IO没有限制
+
+epoll
+   跨平台差
+   效率高
+      * 不必每次监控向系统层映射IO对象
+      * 在应用层可以直接操作就绪IO减少了IO遍历
+   监控IO没有限制
+
+阶段性总结
+
+IO
+  文件IO： open() read() write() close()
+          flush() seek()
+          os.getsize() ....
+
+  网络IO： OSI模型（tcp/ip模型） 三次握手四次回收  tcp和udp  http协议
+          socket 编程 tcp编程:socket()  bind()  listen() accept() recv() send() close() connect()
+                     udp编程: socket()  bind() recvfrom() sendto() close()
+                     套接字属性：setsockopt() getpeername() fileno()  setblocking() settimeout()
+                     struct 模块
+
+并发   进程  os.fork()
+            Process() start() join()
+            进程池Pool()
+            进程间通信 Queue()
+
+      线程  Thread()  start()  join()
+           同步互斥(死锁) Event()  Lock()
+           GIL问题
+
+      对比 ： 什么是进程，什么是线程
+             区别联系
+             进程状态，僵尸进程
+
+      网络通信模型：多进程多线程并发模型
+
+      IO多路复用：select()
+                poll()  register() unregister()
+                epoll() ...
+                知道区别
+         
+
+
+
+
+
+
+　

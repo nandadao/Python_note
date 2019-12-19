@@ -1,0 +1,38 @@
+练习：将元字符按照：
+     匹配字符  匹配重复  匹配位置
+     进行分类
+
+
+cookie ：
+
+   raw字符串 -》 r“xxxx”
+   * 对字符串不进行字符串转义处理
+
+练习:
+   匹配数字
+   12  1.6  -1.5 -32  46.8%  1/2
+
+   re.findall(r'-?\d+\.?/?\d*%?',"12 -12 34.5 -3.14 1/2 46%")
+
+   匹配邮箱 xxxx@xxx.com
+           xxx@xxx.cn
+   re.findall(r'\w+@\w+\.com|\w+@\w+\.cn',"王:wangwc@tedu.cn,李:li@126.com")
+   re.search(r'\w+@\w+(\.com)?(\.cn)?',"李:li@126.com.cn").group()
+
+
+   匹配大写字母开头单词
+   Hello  CBD  I  iPython
+
+   re.findall(r"\b[A-Z]+[a-z]*\b","Hello  CBD  I  iPython")
+
+   在线练习： http://tool.chinaz.com/regex/
+
+练习： 编写一个函数，传入端口名称，返回
+这个端口描述信息中，对应的address值
+
+  * 段与段之前有空行
+  * 每段首单词是端口名
+
+作业： 1. 熟练使用正则表达式元字符
+      2. 练习做完
+
